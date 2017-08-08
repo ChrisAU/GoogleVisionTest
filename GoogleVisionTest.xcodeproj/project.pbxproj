@@ -13,6 +13,7 @@
 		830B0ADF1F39DE610091F2E1 /* ViewControllerPresentable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 830B0ADE1F39DE610091F2E1 /* ViewControllerPresentable.swift */; };
 		830B0AE41F39E5850091F2E1 /* ImageResource.swift in Sources */ = {isa = PBXBuildFile; fileRef = 830B0AE31F39E5850091F2E1 /* ImageResource.swift */; };
 		830B0AE61F39EB240091F2E1 /* VisionService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 830B0AE51F39EB240091F2E1 /* VisionService.swift */; };
+		830B0AEA1F3A4EF40091F2E1 /* ServiceProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 830B0AE91F3A4EF40091F2E1 /* ServiceProvider.swift */; };
 		834E3B7A1F39BED100D5613B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 834E3B791F39BED100D5613B /* AppDelegate.swift */; };
 		834E3B7C1F39BED100D5613B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 834E3B7B1F39BED100D5613B /* ViewController.swift */; };
 		834E3B811F39BED100D5613B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 834E3B801F39BED100D5613B /* Assets.xcassets */; };
@@ -27,6 +28,7 @@
 		830B0ADE1F39DE610091F2E1 /* ViewControllerPresentable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewControllerPresentable.swift; sourceTree = "<group>"; };
 		830B0AE31F39E5850091F2E1 /* ImageResource.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ImageResource.swift; sourceTree = "<group>"; };
 		830B0AE51F39EB240091F2E1 /* VisionService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VisionService.swift; sourceTree = "<group>"; };
+		830B0AE91F3A4EF40091F2E1 /* ServiceProvider.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ServiceProvider.swift; sourceTree = "<group>"; };
 		834E3B761F39BED100D5613B /* GoogleVisionTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GoogleVisionTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		834E3B791F39BED100D5613B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		834E3B7B1F39BED100D5613B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -82,6 +84,7 @@
 				830B0AE31F39E5850091F2E1 /* ImageResource.swift */,
 				830B0AE51F39EB240091F2E1 /* VisionService.swift */,
 				834E3B7B1F39BED100D5613B /* ViewController.swift */,
+				830B0AE91F3A4EF40091F2E1 /* ServiceProvider.swift */,
 				830B0ADE1F39DE610091F2E1 /* ViewControllerPresentable.swift */,
 				830B0ADA1F39D8ED0091F2E1 /* ViewModel.swift */,
 				834E3B801F39BED100D5613B /* Assets.xcassets */,
@@ -227,6 +230,7 @@
 				830B0AE41F39E5850091F2E1 /* ImageResource.swift in Sources */,
 				834E3B7A1F39BED100D5613B /* AppDelegate.swift in Sources */,
 				830B0ADD1F39DE3F0091F2E1 /* ImagePickerInteractor.swift in Sources */,
+				830B0AEA1F3A4EF40091F2E1 /* ServiceProvider.swift in Sources */,
 				830B0AE61F39EB240091F2E1 /* VisionService.swift in Sources */,
 				830B0ADF1F39DE610091F2E1 /* ViewControllerPresentable.swift in Sources */,
 				830B0ADB1F39D8ED0091F2E1 /* ViewModel.swift in Sources */,
